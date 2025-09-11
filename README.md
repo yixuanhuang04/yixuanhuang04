@@ -61,6 +61,3 @@ My long-term goal is to contribute to the advancement of <b>embodied intelligenc
 - University Scholarships – First Prize (2024), Second Prize (2023)  
 - Wuhan University of Technology Excellent Student (Top 1%) (2023, 2024)  
 - Chief Student Affairs Representative, School of Electronic Information Engineering (2022–Present)  
-
----
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qkyaUk8ZTCcRU7WCFxztDE-T9QhniwOZBAYp6BcmMYA"></script>
