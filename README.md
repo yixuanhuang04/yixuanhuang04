@@ -30,7 +30,7 @@ My long-term goal is to contribute to the advancement of <b>embodied intelligenc
 
 
 # 🚀 Experience
-* **China College Engineering Practice and Innovation Competition** — Provincial First Prize, Ranked 2nd Nationwide  
+* **China College Engineering Practice and Innovation Competition (2023)** — Provincial First Prize, Ranked 2nd Nationwide  
   - Developed an intelligent connected vehicle for autonomous decision-making  
   - Designed adaptive algorithms for dynamic environment perception  
   - Improved lane-changing strategies and driving safety, achieving 30% higher evaluation scores than peers  
