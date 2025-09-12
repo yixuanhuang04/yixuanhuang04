@@ -36,43 +36,43 @@ My long-term goal is to contribute to the advancement of <b>embodied intelligenc
   - Improved lane-changing strategies and driving safety, achieving 30% higher evaluation scores than peers  
 
 # 📂 Selected Projects
-* **Handwritten Chinese Sentence Recognition using CNN-CTC (2025)**
-  End-to-end recognition system for handwritten Chinese sentences, achieving **92.6% character accuracy** and **78.4% sentence accuracy**
+* **Handwritten Chinese Sentence Recognition using CNN-CTC (2025)**  
+  End-to-end recognition system for handwritten Chinese sentences, achieving **92.6% character accuracy** and **78.4% sentence accuracy**  
 
-* **Pathology Slide Classification & LLM Distillation (2025)**
-  Built CNN/ResNet18 pipeline with >80% balanced accuracy; fine-tuned LLMs for metadata-aware classification
+* **Pathology Slide Classification & LLM Distillation (2025)**  
+  Built CNN/ResNet18 pipeline with >80% balanced accuracy; fine-tuned LLMs for metadata-aware classification  
 
-* **Scene Graph Generation (2025)**
-  Implemented structured visual understanding pipeline for modeling object relationships
+* **Scene Graph Generation (2025)**  
+  Implemented structured visual understanding pipeline for modeling object relationships  
 
-* **Electronic Password Lock (FPGA) (2025)**
-  Designed a secure FPGA-based access system with password reset/unlock functions
+* **Electronic Password Lock (FPGA) (2025)**  
+  Designed a secure FPGA-based access system with password reset/unlock functions  
 
 * **Multifunctional Digital Clock (2025)**  
-  Designed external circuits and firmware on a microcontroller; implemented features such as Pomodoro timer and daily-use countdown/stopwatch modes for versatile time management
+  Designed external circuits and firmware on a microcontroller; implemented features such as Pomodoro timer and daily-use countdown/stopwatch modes for versatile time management  
 
-* **Tourism Website Big Data Analysis (2024)**
+* **Tourism Website Big Data Analysis (2024)**  
   Web scraping with Jsoup, storage in HBase, visualization with ECharts for hotel pricing/reviews  
 
-* **Digital Baseband Transmission System Simulation (2024)**
-  Implemented zero-ISI baseband communication system with raised cosine filters and noise analysis
+* **Digital Baseband Transmission System Simulation (2024)**  
+  Implemented zero-ISI baseband communication system with raised cosine filters and noise analysis  
 
-* **Frequency-Domain Signal Analysis (2024)**
-  Built DFT/IDFT-based analysis platform for discrete-time signals and system stability studies
+* **Frequency-Domain Signal Analysis (2024)**  
+  Built DFT/IDFT-based analysis platform for discrete-time signals and system stability studies  
 
-* **Multi-Functional Quiz Buzzer (2024)**
-  Designed 8-channel buzzer system with countdown timer and state machine control
+* **Multi-Functional Quiz Buzzer (2024)**  
+  Designed 8-channel buzzer system with countdown timer and state machine control  
 
-* **Electronic Music Box (2023)**
-  Designed circuits/PCB for an interactive music device with oscillator-based tone synthesis
+* **Electronic Music Box (2023)**  
+  Designed circuits/PCB for an interactive music device with oscillator-based tone synthesis  
 
-* **Electronic Keyboard (2023)**
+* **Electronic Keyboard (2023)**  
   Built a 21-key digital keyboard with adjustable pitch using oscillator circuits  
 
 # 🛠 Skills
 - **Languages**: Python, C/C++, Java, MATLAB, Assembly, VHDL  
 - **Technologies**: Git, Linux, LaTeX, CUDA, PCB Design, Machine Learning, Deep Learning, RL, TensorFlow, MuJoCo  
-- **Hardware**: Circuit design, soldering, microcontroller programming
+- **Hardware**: Circuit design, soldering, microcontroller programming  
 
 # 🎖 Awards & Service
 - Provincial First Prize – China College Engineering Practice and Innovation Competition (2023)  
