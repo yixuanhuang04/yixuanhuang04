@@ -21,7 +21,7 @@ My long-term goal is to contribute to the advancement of <b>embodied intelligenc
 </p>
 
 <p  style="margin-top: -10px;">
-  <a href="mailto:yixuanhm@gmail.com" target="_blank"><img src="./files/icon/email.png" height="32px" style="margin-bottom:-4px"></a>&nbsp;
+  <a href="mailto:yixuanhuang2004@gmail.com" target="_blank"><img src="./files/icon/email.png" height="32px" style="margin-bottom:-4px"></a>&nbsp;
   <a href="https://github.com/yixuanhuang04" target="_blank"><img src="./files/icon/github_s.jpg" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://x.com/yixuanhuang_" target="_blank"><img src="./files/icon/X_icon.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://www.linkedin.com/in/yixuanhuang04/" target="_blank"><img src="./files/icon/LinkedIn.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
