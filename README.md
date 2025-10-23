@@ -16,7 +16,7 @@ In addition, I am interested in <b>navigation and decision-making in dynamic and
 
 My long-term goal is to contribute to the advancement of <b>embodied intelligence</b> and the understanding of <b>physical interaction</b>, enabling robots to <b>generalize from limited supervision</b> and <b>adapt to novel tasks and environments</b>.
 
-<i style="color: red; display: inline;">I am currently seeking <b>research internship opportunities</b>. If you are recruiting a research assistant or intern, please feel free to contact me at <i>yixuanhm [AT] gmail [DOT] com</i>. I would be delighted to explore potential opportunities for collaboration.</i>
+<i style="color: red; display: inline;">I am currently seeking <b>research internship opportunities</b>. If you are recruiting a research assistant or intern, please feel free to contact me at <i>[yixuanhuang2004@gmail.com](mailto:yixuanhuang2004@gmail.com)</i>. I would be delighted to explore potential opportunities for collaboration.</i>
 
 </p>
 
