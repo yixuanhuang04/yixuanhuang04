@@ -31,24 +31,24 @@ My long-term goal is to contribute to the advancement of <b>embodied intelligenc
 # 🚀 Experience
 
 - **Rutgers University, New Brunswick**
-  - Jun. 2025 – Present
-  - Research Intern (Supervisor: Prof. Jingjin Yu)
-  - Research Focus: Robotics and Task Planning
+  Jun. 2025 – Present
+  Research Intern (Supervisor: Prof. Jingjin Yu)
+  Research Focus: Robotics and Task Planning
 
 - **Shanghai Artificial Intelligence Research Institute, Shanghai**
-  - Aug. 2025 – Oct. 2025
-  - Research Intern
-  - Research Focus: Computer Vision and Robotics
+  Aug. 2025 – Oct. 2025
+  Research Intern
+  Research Focus: Computer Vision and Robotics
 
 - **Wuhan Research Institute of Posts and Telecommunications (FiberHome), Wuhan**
-  - Oct. 2025 – Oct. 2025
-  - Research Intern
-  - Research Focus: Computer Vision and Robotics
+  Oct. 2025 – Oct. 2025
+  Research Intern
+  Research Focus: Computer Vision and Robotics
 
 - **China College Engineering Practice and Innovation Competition (2023)** — Provincial First Prize, Ranked 2nd Nationwide
-  - Developed an intelligent connected vehicle for autonomous decision-making
-  - Designed adaptive algorithms for dynamic environment perception
-  - Improved lane-changing strategies and driving safety, achieving 30% higher evaluation scores than peers
+  Developed an intelligent connected vehicle for autonomous decision-making
+  Designed adaptive algorithms for dynamic environment perception
+  Improved lane-changing strategies and driving safety, achieving 30% higher evaluation scores than peers
 
 # 📂 Selected Projects
 
