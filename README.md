@@ -30,7 +30,7 @@ My long-term goal is to contribute to the advancement of <b>embodied intelligenc
 
 # 🚀 Experience
 
-- **Rutgers University, New Brunswick**
+- **Rutgers University, New Brunswick**  
   Jun. 2025 – Present  
   Research Intern (Supervisor: Prof. Jingjin Yu)  
   Research Focus: Robotics and Task Planning
