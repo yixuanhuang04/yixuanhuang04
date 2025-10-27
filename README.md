@@ -30,12 +30,30 @@ My long-term goal is to contribute to the advancement of <b>embodied intelligenc
 
 # 🚀 Experience
 
+- **Rutgers University, New Brunswick**
+  - Jun. 2025 – Present
+  - Research Intern (Supervisor: Prof. Jingjin Yu)
+  - Research Focus: Robotics and Task Planning
+
+- **Shanghai Artificial Intelligence Research Institute, Shanghai**
+  - Aug. 2025 – Oct. 2025
+  - Research Intern
+  - Research Focus: Computer Vision and Robotics
+
+- **Wuhan Research Institute of Posts and Telecommunications (FiberHome), Wuhan**
+  - Oct. 2025 – Oct. 2025
+  - Research Intern
+  - Research Focus: Computer Vision and Robotics
+
 - **China College Engineering Practice and Innovation Competition (2023)** — Provincial First Prize, Ranked 2nd Nationwide
   - Developed an intelligent connected vehicle for autonomous decision-making
   - Designed adaptive algorithms for dynamic environment perception
   - Improved lane-changing strategies and driving safety, achieving 30% higher evaluation scores than peers
 
 # 📂 Selected Projects
+
+- **Enterprise Network Virtual Model (2025)**
+  Built a virtual enterprise network and completed the configuration of network segments, devices, and routing.
 
 - **Handwritten Chinese Sentence Recognition using CNN-CTC (2025)**  
   End-to-end recognition system for handwritten Chinese sentences, achieving **92.6% character accuracy** and **78.4% sentence accuracy**
@@ -78,7 +96,12 @@ My long-term goal is to contribute to the advancement of <b>embodied intelligenc
 
 # 🎖 Awards & Service
 
-- Provincial First Prize – China College Engineering Practice and Innovation Competition (2023)
-- University Scholarships – First Prize (2024), Second Prize (2023)
-- Wuhan University of Technology Excellent Student (Top 1%) (2023, 2024)
-- Chief Student Affairs Representative, School of Electronic Information Engineering (2022–Present)
+- [2025] Outstanding Academic Excellence Scholarship, Wuhan University of Technology (CNY 2,000)
+- [2025] Outstanding Student Award, Wuhan University of Technology (Top 0.01%)
+- [2024] Outstanding Academic Excellence Scholarship, Wuhan University of Technology (CNY 3,000)
+- [2024] Outstanding Student Award, Wuhan University of Technology (Top 0.01%)
+- [2023] Outstanding Academic Excellence Scholarship, Wuhan University of Technology (CNY 2,000)
+- [2023] Outstanding Student Award, Wuhan University of Technology (Top 0.01%)
+- [2022 – Present] Director of Student Affairs, School of Information Engineering, Wuhan University of Technology
+- [2022 – 2025] President of Class Committee (Class Leader for 3 consecutive years), Wuhan University of Technology
+- [2022 – 2024] Executive Director, Student Union, Wuhan University of Technology
