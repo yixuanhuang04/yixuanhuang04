@@ -30,17 +30,17 @@ My long-term goal is to contribute to the advancement of <b>embodied intelligenc
 
 # 🚀 Experience
 
-- **Rutgers University, New Brunswick**  
+- **<a href="https://www.rutgers.edu/" target="_blank">Rutgers University</a>, New Brunswick**  
   Jun. 2025 – Present  
   Research Intern (Supervisor: Prof. Jingjin Yu)  
   Research Focus: Robotics and Task Planning
 
-- **Shanghai Artificial Intelligence Research Institute, Shanghai**  
+- **<a href="https://sairi.com.cn/" target="_blank">Shanghai Artificial Intelligence Research Institute</a>, Shanghai**  
   Aug. 2025 – Oct. 2025  
   Research Intern  
   Research Focus: Computer Vision and Robotics
 
-- **Wuhan Research Institute of Posts and Telecommunications (FiberHome), Wuhan**  
+- **<a href="https://en.fiberhome.com/" target="_blank">Wuhan Research Institute of Posts and Telecommunications (FiberHome)</a>, Wuhan**  
   Oct. 2025 – Oct. 2025  
   Research Intern  
   Research Focus: Computer Vision and Robotics
@@ -90,8 +90,8 @@ My long-term goal is to contribute to the advancement of <b>embodied intelligenc
 
 # 🛠 Skills
 
-- **Languages**: Python, C/C++, Java, MATLAB, Assembly, VHDL
-- **Technologies**: Git, Linux, LaTeX, CUDA, PCB Design, Machine Learning, Deep Learning, RL, TensorFlow, MuJoCo
+- **Languages**: Python, C/C++, Java, MATLAB, Assembly, VHDL, HTML
+- **Technologies**: Git, Linux, LaTeX, CUDA, PCB Design, Machine Learning, Deep Learning, Reinforcement Learning, TensorFlow, MuJoCo, Robot Control
 - **Hardware**: Circuit design, soldering, microcontroller programming
 
 # 🎖 Awards & Service
