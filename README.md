@@ -8,7 +8,7 @@
 
 <h3>🏠 <b>Homepage</b>: <a href="https://yixuanhuang04.github.io" target="_blank">yixuanhuang04.github.io</a></h3>
 <p>
-Hello! My name is <b>Yixuan Huang (Chinese name: 黄亦轩)</b>, and I am currently a third-year undergraduate student at <a href="https://www.whut.edu.cn/" target="_blank">Wuhan University of Technology</a>, majoring in <b>Electronic Information Engineering</b>. I am deeply passionate about <b>robotics</b> and <b>artificial intelligence</b>, with a particular focus on how robotic agents can <b>perceive, reason, and interact with the physical world in a human-like and reliable manner</b>.
+Hello! My name is <b>Yixuan Huang (Chinese name: 黄亦轩)</b>, and I am currently a final-year undergraduate student at <a href="https://www.whut.edu.cn/" target="_blank">Wuhan University of Technology</a>, majoring in <b>Electronic Information Engineering</b>. I am deeply passionate about <b>robotics</b> and <b>artificial intelligence</b>, with a particular focus on how robotic agents can <b>perceive, reason, and interact with the physical world in a human-like and reliable manner</b>.
 
 Broadly, my interests lie in enabling robots to <b>autonomously acquire skills</b> through interaction with their environments and through <b>collaboration with humans</b>. My research focuses on improving the <b>robustness, reliability, and safety</b> of robot behaviors in real-world settings—challenges that are fundamental for the effective deployment of robotic systems. These capabilities are crucial for applications such as <b>household service robots</b> and <b>logistics manipulators</b>.
 
@@ -16,7 +16,7 @@ In addition, I am interested in <b>navigation and decision-making in dynamic and
 
 My long-term goal is to contribute to the advancement of <b>embodied intelligence</b> and the understanding of <b>physical interaction</b>, enabling robots to <b>generalize from limited supervision</b> and <b>adapt to novel tasks and environments</b>.
 
-<i style="color: red; display: inline;">I am currently seeking <b>research internship opportunities</b>. If you are recruiting a research assistant or intern, please feel free to contact me at <i>[yixuanhuang2004@gmail.com](mailto:yixuanhuang2004@gmail.com)</i>. I would be delighted to explore potential opportunities for collaboration.</i>
+I am currently seeking <b>research internship opportunities</b>. If you are recruiting a research assistant or intern, please feel free to contact me at <i>[yixuanhuang2004@gmail.com](mailto:yixuanhuang2004@gmail.com)</i>. I would be delighted to explore potential opportunities for collaboration.
 
 </p>
 
@@ -31,17 +31,17 @@ My long-term goal is to contribute to the advancement of <b>embodied intelligenc
 # 🚀 Experience
 
 - **<a href="https://www.rutgers.edu/" target="_blank">Rutgers University</a>, New Brunswick**  
-  Jun. 2025 – Present  
+  *Jun. 2025 – Present*  
   Research Intern (Supervisor: Prof. Jingjin Yu)  
   Research Focus: Robotics and Task Planning
 
 - **<a href="https://sairi.com.cn/" target="_blank">Shanghai Artificial Intelligence Research Institute</a>, Shanghai**  
-  Aug. 2025 – Oct. 2025  
+  *Aug. 2025 – Oct. 2025*  
   Research Intern  
   Research Focus: Computer Vision and Robotics
 
 - **<a href="https://en.fiberhome.com/" target="_blank">Wuhan Research Institute of Posts and Telecommunications (FiberHome)</a>, Wuhan**  
-  Oct. 2025 – Oct. 2025  
+  *Oct. 2025 – Oct. 2025*  
   Research Intern  
   Research Focus: Computer Vision and Robotics
 
@@ -56,7 +56,7 @@ My long-term goal is to contribute to the advancement of <b>embodied intelligenc
   Built a virtual enterprise network and completed the configuration of network segments, devices, and routing.
 
 - **Handwritten Chinese Sentence Recognition using CNN-CTC (2025)**  
-  End-to-end recognition system for handwritten Chinese sentences, achieving **92.6% character accuracy** and **78.4% sentence accuracy**
+  End-to-end recognition system for handwritten Chinese sentences, achieving 92.6% character accuracy and 78.4% sentence accuracy
 
 - **Pathology Slide Classification & LLM Distillation (2025)**  
   Built CNN/ResNet18 pipeline with >80% balanced accuracy; fine-tuned LLMs for metadata-aware classification
