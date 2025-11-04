@@ -43,7 +43,7 @@ I am currently seeking <b>research internship opportunities</b>. If you are recr
 - **<a href="https://en.fiberhome.com/" target="_blank">Wuhan Research Institute of Posts and Telecommunications (FiberHome)</a>, Wuhan**  
   *Oct. 2025 – Oct. 2025*  
   Research Intern  
-  Research Focus: Computer Vision and Robotics
+  Research Focus: Communications Engineering and Electronic Product Design
 
 - **China College Engineering Practice and Innovation Competition (2023)** — Provincial First Prize, Ranked 2nd Nationwide  
   Developed an intelligent connected vehicle for autonomous decision-making  
