@@ -8,8 +8,8 @@
 
 <h3>🏠 <b>Homepage</b>: <a href="https://yixuanhuang04.github.io" target="_blank">yixuanhuang04.github.io</a></h3>
 <p>
-I am a final-year undergraduate student majoring in Electronic Information Engineering at [Wuhan University of Technology](http://english.whut.edu.cn/).  
-I am currently working with Prof. [Jingjin Yu](https://arc-l.github.io/) on multi-robot task planning, focusing on decision-making and planning in complex, shared environments.
+
+I am a final-year undergraduate student majoring in Electronic Information Engineering at [Wuhan University of Technology](http://english.whut.edu.cn/). I am currently working with Prof. [Jingjin Yu](https://arc-l.github.io/) on multi-robot task planning, focusing on decision-making and planning in complex, shared environments.
 
 Previously, I was fortunate to work as a research assistant at the Shanghai Artificial Intelligence Research Institute with Dr. Tianrui Shen, where I conducted applied robotics research spanning computer vision, robotic manipulation, and 3D reconstruction.  
 I have also been involved in academic research at Huazhong University of Science and Technology under Prof. [Guohui Li](https://www.researchgate.net/profile/Li-Guohui-4), with an emphasis on robotics and multi-modal learning, and at Wuhan University under Prof. Min Peng, focusing on computer vision and image recognition.
@@ -21,6 +21,7 @@ I am particularly interested in developing hybrid planning frameworks that combi
 In the long term, I aim to contribute to embodied intelligence by developing robots that can generalize from limited supervision and adapt to novel tasks and environments.  
 I am always open to research collaborations and research-oriented opportunities in robotics and artificial intelligence.  
 Please feel free to contact me at [yixuanhuang2004@gmail.com](mailto:yixuanhuang2004@gmail.com).
+
 </p>
 
 <p  style="margin-top: -10px;">
